@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/souvik pratihar" target="blank"><img src="https://img.shields.io/twitter/follow/souvik pratihar?logo=twitter&style=for-the-badge" alt="souvik pratihar" /></a> </p>
 
-- 🔭 I’m currently working on **codsoft**
+- 🔭 I’m currently working on **Edunet**
 
-- 🌱 I’m currently learning **android app development**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **souvikpratihar1229@gmail.com**
 
